@@ -1,11 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "commands":[
+      {
+         "type":"com.okta.action.update",
+         "value":{
+            "registration":"DENY",
+         }
+      }
+   ]
 }
