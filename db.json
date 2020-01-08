@@ -3,7 +3,7 @@
 		"commands": [{
 			"type": "com.okta.action.update",
 			"value": {
-				"registration": "ALLOW"
+				"registration": "DENY"
 			}
 		}]
 	}
