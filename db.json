@@ -1,10 +1,12 @@
 {
-   "commands":[
-      {
-         "type":"com.okta.action.update",
-         "value":{
-            "registration":"ALLOW"
+   "list":[
+      "commands":[
+         {
+            "type":"com.okta.action.update",
+            "value":{
+               "registration":"ALLOW"
+            }
          }
-      }
+      ]
    ]
 }
